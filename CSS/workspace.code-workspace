@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\edgeledger_website (The original)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "edgeledger_mine"
+	}
+}
